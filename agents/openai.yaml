@@ -1,0 +1,3 @@
+interface:
+  display_name: "Blender Building Kit"
+  short_description: "Build modular exterior models in Blender"
